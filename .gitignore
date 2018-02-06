@@ -5,5 +5,5 @@
 .metadata
 .DS_Store
 *.log
-venv
+benv
 static/images/*
